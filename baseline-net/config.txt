@@ -1,0 +1,1 @@
+--upscale_factor 2 --batchSize 10 --testBatchSize 50 --nEpochs 20 --threads=6
